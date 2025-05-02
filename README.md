@@ -6,7 +6,7 @@ Este repositório contém o código para o meu currículo online, desenvolvido c
 
 Você pode visualizar o meu currículo online acessando o seguinte link:
 
-[**Currículo de Eribaldo dos Santos Oliveira**](https://link-para-seu-curriculo-online)
+[**Currículo de Eribaldo dos Santos Oliveira**](https://curriculo-online-delta.vercel.app/)
 
 ## Tecnologias Utilizadas
 
@@ -32,5 +32,4 @@ A estrutura do currículo está dividida nas seguintes seções:
    ```bash
    git clone https://github.com/EribaldoOliveira/curriculo.git
 
-
-![image](https://github.com/user-attachments/assets/ef33e0f9-2268-4eef-bf45-2fda484f1906)
+![image](https://github.com/user-attachments/assets/f2a20778-2fa1-4455-abc6-b51e3aadb590)
