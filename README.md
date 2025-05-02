@@ -32,4 +32,5 @@ A estrutura do currículo está dividida nas seguintes seções:
    ```bash
    git clone https://github.com/EribaldoOliveira/curriculo.git
 
+# Demonstração
 ![image](https://github.com/user-attachments/assets/f2a20778-2fa1-4455-abc6-b51e3aadb590)
