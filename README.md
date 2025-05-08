@@ -34,3 +34,6 @@ A estrutura do currículo está dividida nas seguintes seções:
 
 # Demonstração
 ![image](https://github.com/user-attachments/assets/f2a20778-2fa1-4455-abc6-b51e3aadb590)
+
+
+https://curriculo-online-delta.vercel.app/
